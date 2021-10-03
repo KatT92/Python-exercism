@@ -1,6 +1,4 @@
-import math
-
-song = [['first ', 'a Partridge in a Pear Tree. '],
+ong = [['first ', 'a Partridge in a Pear Tree. '],
          ['second ', 'two Turtle Doves, and '],
          ['third ', 'three French Hens, '],
          ['fourth ', 'four Calling Birds, '],
